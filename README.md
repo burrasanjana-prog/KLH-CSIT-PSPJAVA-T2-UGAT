@@ -7,7 +7,7 @@ KLH/PSPJAVA/S5/T2
 
 # Team Member Names with ID Numbers
 1. 2620090072 – Sanjana  
-2. 2620080038 – Spandana  
+2. 2620090038 – Spandana  
 
 # Supervisor’s Name
  Mr.G Balaiah
